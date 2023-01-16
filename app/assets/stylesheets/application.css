@@ -42,6 +42,10 @@ a {
   color: #000;
 }
 
+a:visited {
+  color: #666;
+}
+
 .field {
   margin-bottom: 10px;
 }
